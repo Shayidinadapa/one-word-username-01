@@ -1,0 +1,1 @@
+{"description":"Writes the entrant's own make.fun username, one word, to entry.txt","license":"MIT","main":"main.ts","name":"one-word-username-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
